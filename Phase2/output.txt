@@ -1,0 +1,115 @@
+
+
+------jobID: 1 initiated------
+
+Error: VALID PAGE FAULT, REALLOCATING....
+Output: hello world!
+jobID: 1 No Error
+
+
+PCB: 
+jobid:	1
+TTL:	3
+TLL:	1
+TTC:	4
+LLC:	1
+
+---job ID: 1 ENDED!!---
+
+------jobID: 2 initiated------
+
+Error: VALID PAGE FAULT, REALLOCATING....
+Error: VALID PAGE FAULT, REALLOCATING....
+jobID: 2 Time Limit Exceeded
+
+
+PCB: 
+jobid:	2
+TTL:	3
+TLL:	3
+TTC:	4
+LLC:	0
+
+---job ID: 2 ENDED!!---
+
+------jobID: 3 initiated------
+
+Error: VALID PAGE FAULT, REALLOCATING....
+Error: VALID PAGE FAULT, REALLOCATING....
+Error: VALID PAGE FAULT, REALLOCATING....
+Error: VALID PAGE FAULT, REALLOCATING....
+Output: I
+Output: study
+Output: in
+jobID: 3 Line Limit Exceeded
+
+
+PCB: 
+jobid:	3
+TTL:	14
+TLL:	3
+TTC:	11
+LLC:	4
+
+---job ID: 3 ENDED!!---
+
+Output: O@w
+------jobID: 2 initiated------
+
+Error: VALID PAGE FAULT, REALLOCATING....
+Output: GROUP17
+Error: VALID PAGE FAULT, REALLOCATING....
+jobID: 2 Out of Data
+
+
+PCB: 
+jobid:	2
+TTL:	9
+TLL:	1
+TTC:	4
+LLC:	1
+
+------jobID: 6 initiated------
+
+Error: VALID PAGE FAULT, REALLOCATING....
+jobID: 6 Operand Error
+
+
+PCB: 
+jobid:	6
+TTL:	9
+TLL:	1
+TTC:	2
+LLC:	0
+
+---job ID: 6 ENDED!!---
+
+------jobID: 4 initiated------
+
+jobID: 4 Invalid Page Fault
+
+
+PCB: 
+jobid:	4
+TTL:	2
+TLL:	1
+TTC:	0
+LLC:	0
+
+---job ID: 4 ENDED!!---
+
+------jobID: 7 initiated------
+
+Error: VALID PAGE FAULT, REALLOCATING....
+jobID: 7 Invalid Page Fault
+
+
+PCB: 
+jobid:	7
+TTL:	9
+TLL:	1
+TTC:	2
+LLC:	0
+
+---job ID: 7 ENDED!!---
+
