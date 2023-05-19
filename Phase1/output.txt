@@ -1,0 +1,134 @@
+
+
+hello world!
+
+
+VIT
+VIIT
+IS NOT SAME
+
+
+c
+b
+a
+
+
+I
+study
+in
+VIT Pune
+
+
+3 KIDS JUMPING ON BED.
+ONE FELL OFF
+2 KIDS JUMPING ON BED.
+ONE FELL OFF
+1 KIDS JUMPING ON BED.
+ONE FELL OFF
+GAME OVER!
+
+
+*
+**
+***
+
+
+1___0___0__1__
+NOT 
+Palindrome
+NOT 
+Palindrome
+
+
+^
+^^
+^^^
+^^^^
+
+
+hello world!
+
+
+VIT
+VIIT
+IS NOT SAME
+
+
+c
+b
+a
+
+
+I
+study
+in
+VIT Pune
+
+
+3 KIDS JUMPING ON BED.
+ONE FELL OFF
+2 KIDS JUMPING ON BED.
+ONE FELL OFF
+1 KIDS JUMPING ON BED.
+ONE FELL OFF
+GAME OVER!
+
+
+*
+**
+***
+
+
+1___0___0___1___
+Palindrome
+
+
+^
+^^
+^^^
+^^^^
+
+
+hello world!
+
+
+VIT
+VIIT
+IS NOT SAME
+
+
+c
+b
+a
+
+
+I
+study
+in
+VIT Pune
+
+
+3 KIDS JUMPING ON BED.
+ONE FELL OFF
+2 KIDS JUMPING ON BED.
+ONE FELL OFF
+1 KIDS JUMPING ON BED.
+ONE FELL OFF
+GAME OVER!
+
+
+*
+**
+***
+
+
+1___0___0___1___
+Palindrome
+
+
+^
+^^
+^^^
+^^^^
+
+
